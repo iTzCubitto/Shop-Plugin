@@ -1,0 +1,9 @@
+Chat:
+  Prefix: '&cShop &8>> '
+  Color: '&7'
+  Warnung: '&c'
+  Hervorheben: '&e'
+Nachrichten:
+  Rechte: '&cKeine Rechte für diesen Befehl!'
+Shop:
+  Shopname: '&eShop'
